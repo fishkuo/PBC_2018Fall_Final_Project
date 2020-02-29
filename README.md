@@ -22,7 +22,7 @@
  - googlemaps 2.5.1
  
  # 畫面示意圖 :
- ### 以台大女四社地址為例
+ 以台大女四舍地址為例
  ![image](https://github.com/fishkuo/PBC_2018Fall_Final_Project/blob/master/image/app%E7%95%AB%E9%9D%A2-1.png)
  ![image](https://github.com/fishkuo/PBC_2018Fall_Final_Project/blob/master/image/app%E7%95%AB%E9%9D%A2-2.png)
  ![image](https://github.com/fishkuo/PBC_2018Fall_Final_Project/blob/master/image/app%E7%95%AB%E9%9D%A2-3.png)
